@@ -39,7 +39,7 @@ This project is a simple demonstration of implementing an "Employee Login System
 
 ### Purpose
 
-You can use this project as a foundation for expanding its functionality or for learning about interacting with SQLite databases and developing access control systems.
+You can use this project as a foundation for expanding its functionality or developing access control systems.
 
 ## Python cod: https://github.com/waitorgr/Exmple_IMES_PY
 
@@ -88,7 +88,7 @@ Ten projekt to prosty przykład implementacji funkcjonalności "Systemu logowani
 
 ### Cel
 
-Możesz wykorzystać ten projekt jako podstawę do rozwijania jego funkcjonalności lub do nauki pracy z bazami danych SQLite i tworzenia systemów kontroli dostępu.
+Możesz wykorzystać ten projekt jako podstawę do rozwijania jego funkcjonalności lub tworzenia systemów kontroli dostępu.
 
 
 ## Python cod: https://github.com/waitorgr/Exmple_IMES_PY
